@@ -1,0 +1,25 @@
+---
+layout: post
+title:  "猫眼面试"
+date:   2018-09-04 09:56:14 +0800
+categories: jekyll update
+---
+# 猫眼面试
+## 准备
+1. [web访问过程](https://www.cnblogs.com/ddddemo/p/5624053.html)
+2. [DNS查询方式](https://blog.csdn.net/qq_22115619/article/details/70667089)
+3. [枚举类型](http://www.cnblogs.com/sister/p/4700702.html)
+4. [枚举类型](https://blog.csdn.net/javazejian/article/details/71333103)
+5. [枚举类型](https://www.nowcoder.com/discuss/101568?type=0&order=0&pos=12&page=0)
+6. [可重入锁和synchronized区别](https://blog.csdn.net/qq838642798/article/details/65441415)
+7. [同步集合类和并发集合类](https://www.cnblogs.com/suneryong/p/6726413.html)
+8. [java cas](https://blog.csdn.net/ls5718/article/details/52563959)
+9. [jvm](https://www.cnblogs.com/dolphin0520/p/3613043.html)
+10. [jvm](http://www.importnew.com/23035.html)
+11. [jvm系列教程](https://www.cnblogs.com/ityouknow/p/5603287.html)
+12. [redis单线程分布式锁](https://blog.csdn.net/bird73/article/details/79792548)
+13. [不用乘法实现乘法](https://blog.csdn.net/chen134225/article/details/81569009)
+14. [优先队列](https://www.cnblogs.com/ganchuanpu/p/9115239.html)
+15. [二叉树分层打印](https://blog.csdn.net/caonuoqi/article/details/71056050)
+16. [二叉树前序中序后序遍历](https://www.cnblogs.com/yaobolove/p/6213936.html)
+17. [整数反序](https://blog.csdn.net/sinat_36713319/article/details/53791432)

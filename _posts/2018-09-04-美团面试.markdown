@@ -1,0 +1,27 @@
+---
+layout: post
+title:  "美团面试题汇总"
+date:   2018-09-04 16:56:14 +0800
+categories: jekyll update
+---
+
+# 美团面试题汇总
+## 2018美团java面试问题
+[汇总](https://www.douban.com/note/660021462/)
+<br>
+1. [jvm](https://blog.csdn.net/u014656992/article/details/48916373)
+<br>
+2. [Synchronized与EntrantLock的区别](https://blog.csdn.net/chenchaofuck1/article/details/51045134)
+3. [数据库隔离级别](https://www.cnblogs.com/fjdingsd/p/5273008.html)
+4. [大根堆（最大堆）](http://www.cnblogs.com/skywang12345/p/3602162.html)
+5. [object类及其常用方法](https://blog.csdn.net/alinshen/article/details/73548923)
+6. [两个项目如何通信](https://blog.csdn.net/sunshine_silence/article/details/78771198)
+7. [面试官吐槽](https://blog.csdn.net/alinshen/article/details/73612883#comments)
+8. [二叉树层次遍历](https://blog.csdn.net/xinm1001/article/details/71438768)
+9. 
+
+
+
+
+
+
