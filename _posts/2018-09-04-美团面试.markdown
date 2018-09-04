@@ -2,7 +2,7 @@
 layout: post
 title:  "美团面试题汇总"
 date:   2018-09-04 16:56:14 +0800
-categories: 面试
+categories: jekyll update
 ---
 
 # 2018美团java面试问题
