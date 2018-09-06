@@ -1,0 +1,42 @@
+---
+layout: post
+title:  "网易笔试题汇总"
+date:   2018-09-05 12:56:14 +0800
+categories: jekyll update
+---
+
+[2016java研发笔试题](https://blog.csdn.net/lisonglisonglisong/article/details/51038041)
+<br>
+1. 二叉树种类<br>
+0层的二叉树有1种；a0 = 1;
+一层的二叉树有1种；a1 = 1;
+二层的二叉树有3种；a2 = 2*(a0*a1)+a1*a1 = 3;
+三层的二叉树有2*(a0*a2+a1*a2)+a2*a2 = 21种；
+四层的二叉树有2*(a0*a3+a1*a3+a2*a3)+a3*a3 = 546种；
+....
+利用递规的思想。一棵高为n的树由根及左右两颗子树组成。
+设左子树高度为i，右子树为j，则i<n,j<n
+这种情况下树的种数为i*j；
+若左右子树高度不同则左右对换后，种数加倍，有2*i*j种；
+若左右子树高度相同，则只有i*j种；
+对所有组合求和后即得总数。
+2. [知道先序遍历和后序遍历，二叉树种类](https://blog.csdn.net/superxiaolong123/article/details/77064675)
+3. 
+[网易2019笔试代码参考](https://www.nowcoder.com/discuss/92989?type=2)
+1. [丰收](https://blog.csdn.net/qq_29762941/article/details/81747075)
+2. [塔](https://www.nowcoder.com/questionTerminal/54868056c5664586b121d9098d008719?orderByHotValue=1&page=1&onlyReference=false)
+3. 
+
+
+
+
+
+
+
+
+
+
+
+
+
+

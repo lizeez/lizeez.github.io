@@ -1,0 +1,28 @@
+---
+layout: post
+title:  "作业帮笔试题汇总"
+date:   2018-09-05 14:56:14 +0800
+categories: jekyll update
+---
+
+[2017笔试题](https://blog.csdn.net/tongjinrui/article/details/78035070)
+1. [先序，中序，知道后序](https://zhidao.baidu.com/question/36232398.html)
+2. [删除链表节点](https://blog.csdn.net/Extraordinary_1994/article/details/80106056)
+3. [计算字符串相似度](https://blog.csdn.net/zzran/article/details/8274735)
+4. [史上最全公共子序列](https://blog.csdn.net/wangdd_199326/article/details/76464333)
+5. [扇形涂色](https://blog.csdn.net/maozezhong0/article/details/79537137)
+6. [序列的下一个字典序](https://blog.csdn.net/scarecrow398966925/article/details/25477733)
+
+
+
+
+
+
+
+
+
+
+
+
+
+

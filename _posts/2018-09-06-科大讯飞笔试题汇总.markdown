@@ -1,0 +1,22 @@
+---
+layout: post
+title:  "科大讯飞笔试题汇总"
+date:   2018-09-06 14:56:14 +0800
+categories: jekyll update
+---
+
+[2018年秋招科大讯飞笔试题](https://www.nowcoder.com/discuss/67684?type=0&order=0&pos=7&page=1)
+
+
+
+
+
+
+
+
+
+
+
+
+
+
