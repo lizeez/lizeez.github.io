@@ -16,7 +16,7 @@
 title: 文以载道
 email: 3425916239@qq.com
 description: >- # this means to ignore newlines until "baseurl:"
-  记录，分享
+  记录，分享<br>
   coding
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "" # the base hostname & protocol for your site, e.g. http://example.com
