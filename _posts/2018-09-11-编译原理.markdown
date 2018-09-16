@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "数据库"
+title:  "编译原理"
 date:   2018-09-11 23:00:00 +0800
 categories: jekyll update
 ---
