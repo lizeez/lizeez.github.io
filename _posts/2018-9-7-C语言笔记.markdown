@@ -1,0 +1,8 @@
+---
+layout: post
+title:  "C语言笔记"
+date:   2018-09-07 10:56:14 +0800
+categories: jekyll update
+---
+1. [C语言 return-1 return0 return1](https://blog.csdn.net/baidu_35679960/article/details/77542787)
+2. 
