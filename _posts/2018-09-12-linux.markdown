@@ -1,0 +1,26 @@
+---
+layout: post
+title:  "linux"
+date:   2018-09-12 23:00:00 +0800
+categories: jekyll update
+---
+
+1. [linux系统资源占用](https://www.cnblogs.com/chengJAVA/p/6115061.html)
+2. [linux系统资源占用](https://blog.csdn.net/hj7jay/article/details/56831134)
+3. [linux教程](https://www.cnblogs.com/ysocean/p/7819316.html)  
+4. 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

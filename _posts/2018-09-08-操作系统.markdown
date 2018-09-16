@@ -1,0 +1,25 @@
+---
+layout: post
+title:  "操作系统"
+date:   2018-09-08 16:56:14 +0800
+categories: jekyll update
+---
+
+1. [银行家算法](https://www.cnblogs.com/chuxiuhong/p/6103928.html)
+2. [磁盘调度算法](https://blog.csdn.net/jaster_wisdom/article/details/52345674)
+3. [页面置换算法](https://blog.csdn.net/Perfectao/article/details/52116701)
+4. 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
